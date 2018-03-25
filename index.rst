@@ -10,9 +10,13 @@ Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/
 
    Il Palazzo Pretorio di Palermo all'interno del quale si riunisce il Consiglio Comunale
 
-.. figure:: img/ccbysa.png
+|
 
-Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
+.. figure:: img/cc-by.png
+
+Quest'opera è distribuita con `Licenza CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`_ - Creative Commons,  Attribuzione, versione 4.0 Internazionale, in coerenza con la sezione `Licenze delle Linee Guida Nazionali per la Valorizzazione del Patrimonio Informativo Pubblico, dell'AgID <http://lg-patrimonio-pubblico.readthedocs.io/it/latest/licenzecosti.html?highlight=licenze#licenze>`_.
+
+|
 
 |
 
